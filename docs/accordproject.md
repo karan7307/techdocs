@@ -56,3 +56,5 @@ You can find in-depth guides for the different components of a template in the _
 
 Finally, the documentation includes several step by step [Tutorials](tutorial-templates.md) and some reference information (for APIs, command-line tools, etc.) can be found in the [Reference Manual](ref-glossary.md).
 
+
+<!-- added a comment -->
