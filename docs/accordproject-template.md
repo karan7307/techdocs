@@ -60,6 +60,8 @@ that it is accepting the "Widgets".
 
 ## Inspection and Notice.
 
+// this is a comment
+
 "Party B" will have 10 Business Days to inspect and
 evaluate the "Widgets" on the delivery date before notifying
 "Party A" that it is either accepting or rejecting the
