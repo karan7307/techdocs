@@ -46,9 +46,9 @@ obligations under this agreement, detailed in {{attachment}}, attached
 to this agreement.
 ```
 
-The text is written in plain English, with variables between `{{` and `}}`. Variables allows template to be used in different agreements by replacing them with different values.
+The text is written in plain English, with variables between `{{` and `}}`. Variables allow templates to be used in different agreements by replacing them with different values.
 
-For instance, the following show the same **Acceptance of Delivery** clause where the `shipper` is `"Party A"`, the `receiver` is `"Party B"`, the `deliverable` is `"Widgets"`, etc.
+For instance, the following shows the same **Acceptance of Delivery** clause where the `shipper` is `"Party A"`, the `receiver` is `"Party B"`, the `deliverable` is `"Widgets"`, etc.
 
 ```md
 ## Acceptance of Delivery.
@@ -130,7 +130,7 @@ The combination of text and model already makes templates _machine-readable_, wh
 
 ### During Drafting
 
-In the [Overview](accordproject.md) Section, we already saw how logic can be embedded in the text of the template itself to automatically calculate a monthly payment for a [fixed rate loan]():
+In the [Overview](accordproject.md) Section, we already saw how logic can be embedded in the text of the template itself to automatically calculate a monthly payment for a [fixed rate loan](https://templates.accordproject.org/fixed-interests@0.2.0.html):
 
 ```tem
 ## Fixed rate loan
@@ -209,5 +209,7 @@ Build your first smart legal contract templates, either [online](tutorial-studio
 
 Explore [sample templates](started-resources.md) and other resources in the rest of this documentation.
 
-If some of technical words are unfamiliar, please consult the [Glossary](ref-glossary.md) for more detailed explanations.
+If some of the technical words are unfamiliar, please consult the [Glossary](ref-glossary.md) for more detailed explanations.
+
+<!-- Updated with minor grammar fixes and formatting improvements -->
 
